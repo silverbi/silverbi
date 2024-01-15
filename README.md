@@ -30,7 +30,7 @@ In my free time, I read tech articles.
 <br/>
 
 
-### 🚀 My Teck Stack and Tools:
+### 🚀 My Tech Stack and Tools:
   <div>
   <!-- HTML 뱃지 -->
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
