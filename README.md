@@ -44,8 +44,6 @@ In my free time, I read tech articles.
     <img src="https://img.shields.io/badge/React-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
 <!-- ReactNative 뱃지 -->
     <img src="https://img.shields.io/badge/ReactNative-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
-  <!-- Redux 뱃지 -->
-    <img src="https://img.shields.io/badge/Redux-263238?style=flat-square&logo=Redux&logoColor=764ABC"/>
   <!-- Next.js 뱃지 -->
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
   </div>
