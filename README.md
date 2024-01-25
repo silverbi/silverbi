@@ -40,10 +40,9 @@ In my free time, I read tech articles.
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <!-- TypeScript 뱃지 -->
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
-  <!-- Django 뱃지 -->
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
   <!-- React 뱃지 -->
-    <img src="https://img.shields.io/badge/React-263238?style=flat-square&logo=React&logoColor=61DAFB"/>  <!-- ReactNative 뱃지 -->
+    <img src="https://img.shields.io/badge/React-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
+<!-- ReactNative 뱃지 -->
     <img src="https://img.shields.io/badge/ReactNative-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
   <!-- Redux 뱃지 -->
     <img src="https://img.shields.io/badge/Redux-263238?style=flat-square&logo=Redux&logoColor=764ABC"/>
@@ -54,8 +53,6 @@ In my free time, I read tech articles.
 <div>
   <!-- styled-components 뱃지 -->
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <!-- AntDesign 뱃지 -->
-    <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
   <!-- tailwind 뱃지 -->
     <img src="https://img.shields.io/badge/TailwindCSS-232F3E?style=flat-square&logo=tailwindCss&logoColor=06B6D4"/>
   </div>
@@ -63,16 +60,6 @@ In my free time, I read tech articles.
 <div>
   <!-- git 뱃지 -->
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <!-- GitLab 뱃지 -->
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
-  <!-- Prettier 뱃지 -->
-    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
-  <!-- ESLint 뱃지 -->
-    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-  <!-- VisualStudio 뱃지 -->
-    <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-  <!-- Firebase 뱃지 -->
-    <img src="https://img.shields.io/badge/Firebase-1D2C54?style=flat-square&logo=Firebase&logoColor=FFCA28"/>
   <!-- Sentry 뱃지 -->
     <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>
   <!-- Cypress 뱃지 -->
