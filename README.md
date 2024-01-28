@@ -55,14 +55,6 @@ In my free time, I read tech articles.
     <img src="https://img.shields.io/badge/TailwindCSS-232F3E?style=flat-square&logo=tailwindCss&logoColor=06B6D4"/>
   </div>
 <br/>
-<div>
-  <!-- git 뱃지 -->
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-  <!-- Sentry 뱃지 -->
-    <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/>
-  <!-- Cypress 뱃지 -->
-    <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/>
-</div>
 <br/>
 <br/>
 <br/>
