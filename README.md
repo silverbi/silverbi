@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- 지메일 뱃지 -->
-  <a href="mailto:silverbi.404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bbumbb2@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+  <a href="mailto:silverbi.404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/silverbi.404@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
   <!-- 인스타그램 뱃지 -->
   <a href="https://instagram.com/silverbi_i?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/silverbi-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
   <!-- 포트폴리오 뱃지 -->
