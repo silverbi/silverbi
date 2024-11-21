@@ -23,9 +23,9 @@ I'm passionate frontend developer building my world one step at a time. <br/>
 I love to explore new technologies and leverage them to solve real-life problems. <br/>
 I'm currently interested in React, Typescript. <br/>
 In my free time, I read tech articles.
+    
 <br/>
-. <br/>
-. <br/>
+<br/>
 <div/>
 <br/>
 
@@ -42,18 +42,22 @@ In my free time, I read tech articles.
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFFFFF"/>
   <!-- React 뱃지 -->
     <img src="https://img.shields.io/badge/React-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
-<!-- ReactNative 뱃지 -->
+  <!-- ReactNative 뱃지 -->
     <img src="https://img.shields.io/badge/ReactNative-263238?style=flat-square&logo=React&logoColor=61DAFB"/>
   <!-- Next.js 뱃지 -->
     <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=Next.js&logoColor=white"/>
-  </div>
-<br/>
-<div>
-  <!-- styled-components 뱃지 -->
-    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <!-- tailwind 뱃지 -->
     <img src="https://img.shields.io/badge/TailwindCSS-232F3E?style=flat-square&logo=tailwindCss&logoColor=06B6D4"/>
   </div>
+  </div>
+<br/>
+<div>
+  <!-- Notion 뱃지 -->
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+  <!-- Slack 뱃지 -->
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <!-- Jira 뱃지 -->
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <br/>
 <br/>
 <br/>
