@@ -58,7 +58,14 @@ In my free time, I read tech articles.
 <br/>
 <br/>
 <br/>
+<br/>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/silverbi?pet-id=1" width="1000" height="120"/>
+</a>
+
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=silverbi&style=flat-square&color=25A162" alt="view"/>
